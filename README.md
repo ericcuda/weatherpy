@@ -1,4 +1,4 @@
-# PYBER
+# WeatherPy
 
 PROJECT NAME: What's the Weather Like?  
 DESCRIPTION: Homework #6  Data Analytics Boot Camp  
